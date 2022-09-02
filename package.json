@@ -1,8 +1,8 @@
 {
-  "name": "passwords-backup",
-  "version": "0.1.0",
+  "name": "ledger-password",
+  "version": "1.0.0",
   "private": true,
-  "homepage": "https://ledgerhq.github.io/passwords-backup",
+  "homepage": "https://lshaf.github.io/ledger-password",
   "dependencies": {
     "@ledgerhq/devices": "^7.0.0",
     "@ledgerhq/hw-transport-webusb": "^6.27.0",
